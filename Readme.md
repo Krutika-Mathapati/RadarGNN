@@ -20,7 +20,7 @@ The focus is on a modular implementation with the possibility to incorporate dif
 To get started, first a project folder must be created. This folder contains everything related to this project. Inside the project folder create a "data" folder and within this folder, create a "results" subfolder. The trained models and evaluations will be stored in that folder. Depending on the desired dataset, create the following additional sub folders inside the "data" folder:
 - datasets/nuscenes
 
-In a second step follow the instructions of the [nuScenes](https://drive.google.com/file/d/1m0sWHNF-g-0mwy9KKudnuyaDRwMd1rVY/view?usp=sharing)websites to download and store the datasets in the created sub folders. 
+In a second step follow the instructions of the [nuScenes](https://drive.google.com/file/d/1m0sWHNF-g-0mwy9KKudnuyaDRwMd1rVY/view?usp=sharing) websites to download and store the datasets in the created sub folders. 
 
 Finally, clone this repository into the project folder using the command:
 ```
